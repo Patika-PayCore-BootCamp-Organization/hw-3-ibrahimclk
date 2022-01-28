@@ -1,7 +1,6 @@
 # hw-3-ibrahimclk
 hw-3-ibrahimclk created by GitHub Classroom
 1 – SOAP vs Restful ?
-
 2 - Difference between acceptance test and functional test ?
 3 - What is Mocking ?
 4 - What is a reasonable code coverage % for unit tests (and why) ?
